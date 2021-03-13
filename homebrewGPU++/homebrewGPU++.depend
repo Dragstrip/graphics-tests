@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1558494810 source:c:\users\tbweb\data\c++\homebrewgpu\display.cpp
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	<vector>
+	<string>
+
+1559623038 source:c:\users\tbweb\data\c++\homebrewgpu++\display.cpp
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	<vector>
+	<string>
+

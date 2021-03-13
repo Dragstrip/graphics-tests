@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1562640579 source:c:\users\tbweb\data\c++\gpu_c\terminal_display.c
+	<stdio.h>
+	<windows.h>
+	"c:\users\tbweb\data\c++\tests\includes\graphicsLoad\graphicsLoad.c"
+	"C:\Users\tbweb\Data\C++\Tests\includes\composite\composite.c"
+
+1561765893 source:c:\users\tbweb\data\c++\tests\includes\composite.c
+	<stdio.h>
+
+1560832020 c:\users\tbweb\data\c++\tests\includes\graphicsload\graphicsload.c
+
+1561867278 c:\users\tbweb\data\c++\tests\includes\composite\composite.c
+	<stdio.h>
+

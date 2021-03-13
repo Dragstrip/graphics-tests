@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1569628300 source:c:\users\tbweb\data\c++\vic_cpp\vic_display.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<string>
+	"c:\users\tbweb\data\c++\includes\graphicsLoad\graphicsLoad.c"
+
+1562955999 c:\users\tbweb\data\c++\includes\graphicsload\graphicsload.c
+

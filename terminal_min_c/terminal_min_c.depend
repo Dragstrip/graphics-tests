@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1561767085 source:c:\users\tbweb\data\c++\gpu_c\terminal_display_min.c
+	<stdio.h>
+	"c:\users\tbweb\data\c++\tests\includes\graphicsLoad\graphicsLoad.c"
+
+1560832020 c:\users\tbweb\data\c++\tests\graphicsload\graphicsload.c
+
+1560832020 c:\users\tbweb\data\c++\tests\includes\graphicsload\graphicsload.c
+

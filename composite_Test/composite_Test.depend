@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1561845333 source:c:\users\tbweb\data\c++\tests\composite_test\composite_test.c
+	<stdio.h>
+	"C:\Users\tbweb\Data\C++\Tests\includes\composite\composite.c"
+	"c:\users\tbweb\data\c++\tests\includes\graphicsLoad\graphicsLoad.c"
+
+1561857686 c:\users\tbweb\data\c++\tests\includes\composite\composite.c
+	<stdio.h>
+
+1560832020 c:\users\tbweb\data\c++\tests\includes\graphicsload\graphicsload.c
+

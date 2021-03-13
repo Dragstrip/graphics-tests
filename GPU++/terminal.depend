@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1559567851 source:c:\users\tbweb\data\c++\gpu++\gpu.cpp
+	<stdio.h>
+	<fstream>
+
+1563586636 source:c:\users\tbweb\data\c++\gpu++\terminal_display.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+	<vector>
+

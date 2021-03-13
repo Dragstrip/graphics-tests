@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558498102 source:c:\users\tbweb\data\c++\homebrewgpu\display.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+
